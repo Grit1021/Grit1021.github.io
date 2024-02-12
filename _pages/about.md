@@ -29,7 +29,7 @@ My research interest includes:
 
 # 🎓 Educations 
 - *2022.09 - present*, <a href="https://www.fudan.edu.cn/en/"><img class="svg" src="/images/Fudan_logo.png" width="23pt"></a> School of Data Science, Fudan University, Shanghai China. 
-- *2018.09 - 2022.06*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Mathematics, Jilin University, Changchun China. 
+- *2018.09 - 2022.06*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.jpeg" width="20pt"></a> School of Mathematics, Jilin University, Changchun China. 
  
 
 # 📝 Publications 
