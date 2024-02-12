@@ -36,7 +36,7 @@ My research interest includes:
 
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/flowchart1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Jiyao Liu, `Yuxin Li`, et al., Xiahai Zhuang. Multi-Phase DCE-MRI Translation for Liver-Specific Image Synthesis via a Registration-Guided GAN. *MICCAI workshohp*. 2023, 22(9): 3587. (JCR:Q2; IF:3.847)  
