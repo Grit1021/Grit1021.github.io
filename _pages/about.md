@@ -54,7 +54,7 @@ My research interest includes:
 
 # 💬 Conferences
 
-- *2023.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian Canada, Oral.
+- *2023.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Vancouvour Canada, Oral.
 
 
 # 🏭 Internships
