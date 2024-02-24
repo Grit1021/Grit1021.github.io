@@ -57,4 +57,7 @@ My research interest includes:
 # 🏭 Internships
 - *2022.02 - 2022.05*, Noah Hospital Logistics Robot Co., Ltd., Shanghai China.
 
+# 📒 Blogs
+
+- Dive into deep learning
   
