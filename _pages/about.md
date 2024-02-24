@@ -39,7 +39,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Jiyao Liu, `Yuxin Li`, et al., Xiahai Zhuang. Multi-Phase DCE-MRI Translation for Liver-Specific Image Synthesis via a Registration-Guided GAN. *International Workshop on Simulation and Synthesis in Medical Imaging*. 2023: 21-31. (JCR:Q1; IF:3.847)  
-[[HTML]](https://link.springer.com/chapter/10.1007/978-3-031-44689-4_3) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[HTML]](https://link.springer.com/chapter/10.1007/978-3-031-44689-4_3) [[codes]](https://github.com/Jy-stdio/MrGAN.git) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
   
 
