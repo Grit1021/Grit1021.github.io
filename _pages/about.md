@@ -38,22 +38,20 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Springer Nature Switzerland 2023</div><img src='images/flowchart1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Jiyao Liu, `Yuxin Li`, et al., Xiahai Zhuang. Multi-Phase DCE-MRI Translation for Liver-Specific Image Synthesis via a Registration-Guided GAN. *International Workshop on Simulation and Synthesis in Medical Imaging*. 2023: 21-31. (JCR:Q1; IF:3.847)  
-[[HTML]](https://link.springer.com/chapter/10.1007/978-3-031-44689-4_3) [[codes]](https://github.com/Jy-stdio/MrGAN.git) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
-  
+-	Jiyao Liu, `Yuxin Li`, et al., Xiahai Zhuang. Multi-Phase DCE-MRI Translation for Liver-Specific Image Synthesis via a Registration-Guided GAN. *International Workshop on Simulation and Synthesis in Medical Imaging*. 2023: 21-31.
+[[HTML]](https://link.springer.com/chapter/10.1007/978-3-031-44689-4_3) [[codes]](https://github.com/Jy-stdio/MrGAN.git) [[PDF]](/pdf/%5B2023MICCAI_W%5DMulti-phase%20Liver-Specific%20DCE-MRI%20Translation%20via%20A%20Registration-Guided%20GAN.pdf)
 
 
 
 
 # 🏅 Honors and Awards
-- *2021.11*  Win the `3rd Prize` in the "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition (Jilin University Division).
-- *2020.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2019.12* Win the `1st Prize` in the 4th National Undergraduate Mathematics Contest (Jilin Division).
+- *2020.12* Win the `1st Prize` in the National College Student Mathematical Modeling Competition (Jilin Division).
+- *2020.08*  Win the `3rd Prize` in the "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition (Jilin University Division).
+- *2019.12* Win the `1st Prize` in the National Undergraduate Mathematics Contest (Jilin Division).
 
 # 💬 Conferences
 
-- *2023.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Vancouver Canada, Oral.
+- *2023.10*,8th International Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI) / Synthesizing computed tomography for radiotherapy, Vancouver Canada, Oral.
 
 
 # 🏭 Internships
