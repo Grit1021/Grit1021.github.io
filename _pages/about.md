@@ -54,7 +54,7 @@ My research interest includes:
 - *2023.10*,8th International Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI) / Synthesizing computed tomography for radiotherapy, Vancouver Canada, Oral.
 
 
-# 🏭 Internships
+# 🏭 Internships & Experiences
 - *2022.02 - 2022.05*, Noah Hospital Logistics Robot Co., Ltd., Shanghai China.
 
 # 📒 Blogs
