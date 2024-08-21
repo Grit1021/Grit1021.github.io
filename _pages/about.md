@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Master from the School of Data Science,  Fudan University, Shanghai China, advised by Xiahai Zhuang. I received my bachelor's degree from the School of Mathematics, Jilin University, Changchun China. 
+I am a third-year Master from the School of Data Science,  Fudan University, Shanghai China, advised by Xiahai Zhuang. I received my bachelor's degree from the School of Mathematics, Jilin University, Changchun China. 
 
 My research interest includes: 
 - Deep generative learning
-- Image super-resolution and reconstruction
+- Machine learning and statistical learning
 - Medical image analysis
 
 
@@ -55,6 +55,7 @@ My research interest includes:
 
 
 # 🏭 Internships & Experiences
+- *2024.06 - 2024.09*, Research Assistant in YangLab, mathematics, HKUST, HongKong.
 - *2022.02 - 2022.05*, Noah Hospital Logistics Robot Co., Ltd., Shanghai China.
 
 # 📒 Blogs
