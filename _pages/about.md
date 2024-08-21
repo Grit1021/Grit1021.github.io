@@ -42,7 +42,7 @@ My research interest includes:
 [[HTML]](https://link.springer.com/chapter/10.1007/978-3-031-44689-4_3) [[codes]](https://github.com/Jy-stdio/MrGAN.git) [[PDF]](/pdf/%5B2023MICCAI_W%5DMulti-phase%20Liver-Specific%20DCE-MRI%20Translation%20via%20A%20Registration-Guided%20GAN.pdf)
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/flowchart1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/flowchart2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Jiyao Liu, `Yuxin Li`, et al., Xiahai Zhuang. Trustworthy Contrast-enhanced Brain MRI Synthesis. *Under review*. 2024.
