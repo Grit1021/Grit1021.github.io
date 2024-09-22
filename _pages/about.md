@@ -53,6 +53,9 @@ My research interest includes:
 -	Jiyao Liu, `Yuxin Li`, et al., Xiahai Zhuang. Trustworthy Contrast-enhanced Brain MRI Synthesis. *Under review*. 2024.
 [[HTML]](https://arxiv.org/pdf/2407.07372)  [[PDF]](/pdf/%5B2023MICCAI_W%5DMulti-phase%20Liver-Specific%20DCE-MRI%20Translation%20via%20A%20Registration-Guided%20GAN.pdf)
 
+</div>
+</div>
+
 
 # 🏅 Honors and Awards
 - *2020.12* Win the `1st Prize` in the National College Student Mathematical Modeling Competition (Jilin Division).
