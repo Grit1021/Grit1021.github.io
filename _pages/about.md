@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Master from the School of Data Science,  Fudan University, Shanghai China, advised by Xiahai Zhuang. I received my bachelor's degree from the School of Mathematics, Jilin University, Changchun China. 
+I am a third-year Master from the School of Data Science(https://sds.fudan.edu.cn/),  Fudan University, Shanghai China, advised by Xiahai Zhuang(https://zmiclab.github.io/zxh/). I received my bachelor's degree from the School of Mathematics(https://math.jlu.edu.cn/), Jilin University, Changchun China. 
 
 My research interest includes: 
 - Deep generative learning
@@ -57,11 +57,6 @@ My research interest includes:
 </div>
 
 
-# 🏅 Honors and Awards
-- *2020.12* Win the `1st Prize` in the National College Student Mathematical Modeling Competition (Jilin Division).
-- *2020.08*  Win the `3rd Prize` in the "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition (Jilin University Division).
-- *2019.12* Win the `1st Prize` in the National Undergraduate Mathematics Contest (Jilin Division).
-
 # 💬 Conferences
 
 - *2023.10*,8th International Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI) / Synthesizing computed tomography for radiotherapy, Vancouver Canada, Oral.
@@ -69,8 +64,16 @@ My research interest includes:
 
 # 🏭 Internships & Experiences
 - *2024.09 - present*, International Visiting Graduate Students (Research Track), Department of Electrical & Computer Engineering, Toronto, Canada.
-- *2024.06 - 2024.09*, Research Assistant in YangLab, Department of Mathematics,Hong Kong University of Science and Technology, Hong Kong SAR.
+- *2024.06 - 2024.09*, Research Assistant in YangLab, Department of Mathematics, Hong Kong University of Science and Technology, Hong Kong SAR.
 - *2022.02 - 2022.05*, Noah Hospital Logistics Robot Co., Ltd., Shanghai China.
+  
+
+# 🏅 Honors and Awards
+- *2020.12* Win the `1st Prize` in the National College Student Mathematical Modeling Competition (Jilin Division).
+- *2020.08*  Win the `3rd Prize` in the "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition (Jilin University Division).
+- *2019.12* Win the `1st Prize` in the National Undergraduate Mathematics Contest (Jilin Division).
+
+
 
 # 📒 Blogs
 
