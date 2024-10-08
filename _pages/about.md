@@ -47,7 +47,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/flow chart_3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/flowchart2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Jiyao Liu, `Yuxin Li`, et al., Xiahai Zhuang. Trustworthy Contrast-enhanced Brain MRI Synthesis. *Under review*. 2024.
@@ -56,7 +56,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/flowchart2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICLR 2025</div><img src='images/flow chart_3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	`Yuxin Li`, et al. Generating GFlowNets as You Wish with Diffusion Process. *Under review*. Submitted to ICLR 2025.
 
