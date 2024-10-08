@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Master from the School of Data Science(https://sds.fudan.edu.cn/),  Fudan University, Shanghai China, advised by Xiahai Zhuang(https://zmiclab.github.io/zxh/). I received my bachelor's degree from the School of Mathematics(https://math.jlu.edu.cn/), Jilin University, Changchun China. 
+I am a third-year Master from the [School of Data Science](https://sds.fudan.edu.cn/),  Fudan University, Shanghai China, advised by [Xiahai Zhuang](https://zmiclab.github.io/zxh/). I received my bachelor's degree from the [School of Mathematics](https://math.jlu.edu.cn/), Jilin University, Changchun China. 
 
 My research interest includes: 
 - Deep generative learning
