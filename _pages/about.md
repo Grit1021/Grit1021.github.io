@@ -58,7 +58,7 @@ My research interest includes:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICLR 2025</div><img src='images/flow chart_3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	`Yuxin Li`, et al. Generating GFlowNets as You Wish with Diffusion Process. *Under review*. Submitted to ICLR 2025.
+-	`Yuxin Li`, et al., Dianbo Liu, Yang You, Kai Wang. Generating GFlowNets as You Wish with Diffusion Process. *Under review*. Submitted to ICLR 2025.
 
 </div>
 </div>
