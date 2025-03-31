@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year Master from the [School of Data Science](https://sds.fudan.edu.cn/),  Fudan University, Shanghai China, advised by [Xiahai Zhuang](https://zmiclab.github.io/zxh/). I received my bachelor's degree from the [School of Mathematics](https://math.jlu.edu.cn/), Jilin University, Changchun China. 
 
-My research interest includes: 
+My research interests include: 
 - Deep generative learning
 - Machine learning and statistical learning
 - Medical image analysis
@@ -28,8 +28,8 @@ My research interest includes:
 
 
 # 🎓 Educations 
-- *2022.09 - present*, <a href="https://www.fudan.edu.cn/en/"><img class="svg" src="/images/Fudan_logo.png" width="23pt"></a> School of Data Science, Fudan University, Shanghai China.
-- *2024.09 - present*, <a href="https://www.fudan.edu.cn/en/"><img class="svg" src="/images/uoft.png" width="23pt"></a> Department of Electrical & Computer Engineering, Toronto, Canada.
+- *2022.09 - present*, <a href="https://www.fudan.edu.cn/en/"><img class="svg" src="/images/Fudan_logo.png" width="23pt"></a> School of Data Science, Fudan University, Shanghai, China.
+- *2024.09 - present*, <a href="https://www.fudan.edu.cn/en/"><img class="svg" src="/images/uoft.png" width="23pt"></a> Department of Electrical & Computer Engineering, University of Toronto, Toronto, Canada.
 - *2024.06 - 2024.09*,  <a href="https://www.fudan.edu.cn/en/"><img class="svg" src="/images/HKUST-STD.svg" width="23pt"></a> Department of Mathematics, Hong Kong University of Science and Technology, Hong Kong SAR, China.
 - *2018.09 - 2022.06*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/JLU_logo.jpeg" width="20pt"></a> School of Mathematics, Jilin University, Changchun China. 
  
@@ -70,7 +70,7 @@ My research interest includes:
 
 
 # 🏭 Internships & Experiences
-- *2024.09 - present*, International Visiting Graduate Students (Research Track), Department of Electrical & Computer Engineering, Toronto, Canada.
+- *2024.09 - present*, International Visiting Graduate Students (Research Track) in iQuA Lab, Department of Electrical & Computer Engineering, University of Toronto, Toronto, Canada.
 - *2024.06 - 2024.09*, Research Assistant in YangLab, Department of Mathematics, Hong Kong University of Science and Technology, Hong Kong SAR.
 - *2022.02 - 2022.05*, Noah Hospital Logistics Robot Co., Ltd., Shanghai China.
   
