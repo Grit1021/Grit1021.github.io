@@ -3,17 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#-educations"
+
+  - title: "Experience"
+    url: "/#-internships"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Projects"
+    url: "/#-projects"
 
-  - title: "Conferences"
-    url: "/#-conferences"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Resume"
+    url: "/files/Yuxin_Li_Resume.pdf"

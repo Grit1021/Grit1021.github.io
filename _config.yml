@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxin Li"
-description              : "This is the academic homepage of master Li."
+description              : "PhD student at the University of Pennsylvania working on reliable agentic AI and biomedical machine learning."
 repository               : "Grit1021/Grit1021.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxin Li"
   avatar           : "images/IMG_2405.jpeg"
-  bio              : "Fudan University"
-  location         : "Shanghai, China"
+  bio              : "PhD Student, University of Pennsylvania"
+  location         : "Philadelphia, PA"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=WJNiCWsAAAAJ&hl=zh-CN"
-  email            : "grit1021@gmail.com"
+  email            : "grit1021t@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yuxin-Li-66"
   uri              : 
   bitbucket        :
@@ -43,7 +43,8 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "yuxin-li-051136332"
+  resume           : "/files/Yuxin_Li_Resume.pdf"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0001-9658-209X"
   pinterest        :
@@ -136,7 +137,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 
 # Plugins
