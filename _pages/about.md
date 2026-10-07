@@ -19,14 +19,7 @@ Before Penn, I earned an MS in Data Science from [Fudan University](https://sds.
   <a class="homepage-link" href="https://tigerai.bio/pathway/">Try GenePathwayAI</a>
 </div>
 
-<div class="research-focus" aria-label="Research interests">
-  <strong>Research interests</strong>
-  <span>Large language models</span>
-  <span>Agentic systems</span>
-  <span>Biomedical AI</span>
-  <span>Scalable deep learning</span>
-  <span>Trustworthy machine learning</span>
-</div>
+<p class="research-focus"><strong>Research interests:</strong> Large language models, agentic systems, biomedical AI, scalable deep learning, and trustworthy machine learning.</p>
 
 <span class="anchor" id="-educations"></span>
 
@@ -34,19 +27,16 @@ Before Penn, I earned an MS in Data Science from [Fudan University](https://sds.
 
 <div class="entry-list">
   <div class="entry-item">
-    <div class="entry-heading"><strong>University of Pennsylvania</strong><span>Aug 2025 - Expected Jun 2029</span></div>
-    <div>PhD in Applied Mathematics and Computational Science</div>
-    <div class="entry-meta">Philadelphia, Pennsylvania</div>
+    <div class="entry-heading"><a class="entry-organization" href="https://www.upenn.edu/"><strong>University of Pennsylvania</strong></a><span class="entry-date">Aug 2025 - Expected Jun 2029</span></div>
+    <div class="entry-subline"><span>PhD in Applied Mathematics and Computational Science</span><span class="entry-separator" aria-hidden="true">·</span><span>Philadelphia, PA</span></div>
   </div>
   <div class="entry-item">
-    <div class="entry-heading"><strong>Fudan University</strong><span>Sep 2022 - Jun 2025</span></div>
-    <div>MS in Data Science, GPA: 3.61/4.0</div>
-    <div class="entry-meta">Shanghai, China</div>
+    <div class="entry-heading"><a class="entry-organization" href="https://www.fudan.edu.cn/en/"><strong>Fudan University</strong></a><span class="entry-date">Sep 2022 - Jun 2025</span></div>
+    <div class="entry-subline"><span>MS in Data Science</span><span class="entry-separator" aria-hidden="true">·</span><span>Shanghai, China</span></div>
   </div>
   <div class="entry-item">
-    <div class="entry-heading"><strong>Jilin University</strong><span>Sep 2018 - Jun 2022</span></div>
-    <div>BS in Mathematics, GPA: 3.79/4.0</div>
-    <div class="entry-meta">Changchun, China</div>
+    <div class="entry-heading"><a class="entry-organization" href="https://www.jlu.edu.cn/"><strong>Jilin University</strong></a><span class="entry-date">Sep 2018 - Jun 2022</span></div>
+    <div class="entry-subline"><span>BS in Mathematics</span><span class="entry-separator" aria-hidden="true">·</span><span>Changchun, China</span></div>
   </div>
 </div>
 
@@ -56,8 +46,8 @@ Before Penn, I earned an MS in Data Science from [Fudan University](https://sds.
 
 <div class="entry-list experience-list">
   <div class="entry-item">
-    <div class="entry-heading"><strong>Wharton School, University of Pennsylvania</strong><span>Aug 2025 - Present</span></div>
-    <div class="entry-role">Research Assistant</div>
+    <div class="entry-heading"><a class="entry-organization" href="https://www.wharton.upenn.edu/"><strong>Wharton School, University of Pennsylvania</strong></a><span class="entry-date">Aug 2025 - Present</span></div>
+    <div class="entry-subline"><span>Research Assistant</span><span class="entry-separator" aria-hidden="true">·</span><span>Philadelphia, PA</span></div>
     <ul>
       <li>Led the design and deployment of <a href="https://tigerai.bio/pathway/"><strong>GenePathwayAI</strong></a>, a human-expert-orchestrated system for pathway hypothesis generation, statistical validation, evidence ranking, feedback, and structured interpretation.</li>
       <li>Built an auditable two-pass workflow with fixed tool calls, FDR-gated outputs, source-linked PubMed evidence, and provenance-preserving reports across GO, KEGG, and Reactome.</li>
@@ -65,16 +55,16 @@ Before Penn, I earned an MS in Data Science from [Fudan University](https://sds.
     </ul>
   </div>
   <div class="entry-item">
-    <div class="entry-heading"><strong>DP Technology</strong><span>May 2026 - Aug 2026</span></div>
-    <div class="entry-role">AI Research Intern, Hangzhou</div>
+    <div class="entry-heading"><a class="entry-organization" href="https://www.dp.tech/en"><strong>DP Technology</strong></a><span class="entry-date">May 2026 - Aug 2026</span></div>
+    <div class="entry-subline"><span>AI Research Intern</span><span class="entry-separator" aria-hidden="true">·</span><span>Hangzhou, China</span></div>
     <ul>
       <li>Designed knowledge-graph-augmented multi-agent workflows that decompose PICO questions into retrieval, evidence appraisal, synthesis, and verification with traceable clinical evidence chains.</li>
       <li>Implemented planning, tool routing, shared memory, and critic/verifier agents, then evaluated citation grounding, relevance, faithfulness, and inter-agent consistency.</li>
     </ul>
   </div>
   <div class="entry-item">
-    <div class="entry-heading"><strong>PingAn Technology</strong><span>May 2025 - Jun 2025</span></div>
-    <div class="entry-role">Algorithm Intern, Shanghai</div>
+    <div class="entry-heading"><a class="entry-organization" href="https://tech.pingan.com/"><strong>Ping An Technology</strong></a><span class="entry-date">May 2025 - Jun 2025</span></div>
+    <div class="entry-subline"><span>Algorithm Intern</span><span class="entry-separator" aria-hidden="true">·</span><span>Shanghai, China</span></div>
     <ul>
       <li>Fine-tuned GPT models with LoRA for intent and document classification on 200K in-domain samples, improving F1 by 3.2% over BERT-based pipelines.</li>
       <li>Built reproducible PyTorch Lightning and MLflow pipelines for distributed experiments and automated hyperparameter tuning.</li>
